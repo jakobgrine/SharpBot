@@ -1,0 +1,16 @@
+﻿{
+  "discord": {
+    "token": ""
+  },
+  "lavalink": {
+    "password": "YouShallNotPass",
+    "hostname": "127.0.0.1",
+    "port": 2333,
+    "reconnect": {
+      "attempts": 1,
+      "delay": 1
+    },
+    "self_deaf": true
+  },
+  "prefix": "$"
+}
